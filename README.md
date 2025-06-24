@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](./LICENSE)  
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Mac-blue)](#)
 
-# 🤖 BrowserAgent2: Automated Browser Agent with Gemini & MCP
+# 🤖 BrowserAgent2: Web Intelligence and Automated Browser Agent with Gemini & MCP
 
 **BrowserAgent2** is an automated agent that executes user instructions on a Chrome browser using Playwright, orchestrated by a Browser MCP Server (Model Context Protocol, SSE-based) and powered by Gemini for intelligent tool selection and reasoning.
 
