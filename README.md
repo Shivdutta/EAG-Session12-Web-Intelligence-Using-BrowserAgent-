@@ -67,7 +67,7 @@ uv python browserMCP/browser_mcp_sse.py
 ```bash
 uv python main.py
 ```
-
+* ### [Youtube >> Browser Agent ](https://www.youtube.com/watch?v=RhtAM_9rO7U)
 ---
 
 ## 💡 Example Query
