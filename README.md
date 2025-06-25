@@ -67,6 +67,7 @@ uv python browserMCP/browser_mcp_sse.py
 ```bash
 uv python main.py
 ```
+<img width="620" src="browser-auto.png">
 * ### [Youtube >> Browser Agent ](https://www.youtube.com/watch?v=RhtAM_9rO7U)
 ---
 
